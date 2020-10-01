@@ -7,15 +7,15 @@ body {
   font-family: Roboto;
 }
 h1 {
-  font-size: 90px;
+  font-size: 80px;
   color: #ab0c00;
 }
 .topbar {
-  background-color: #292929;
+  background-color: #4d4d4d;
   overflow: hidden;
 } 
 h2 {
-  font-size: 60px;
+  font-size: 40px;
   color: #8a0a00;
 } 
 p {
