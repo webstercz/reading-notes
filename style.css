@@ -3,13 +3,13 @@ body {
 }
 h1 {
   font-size: 40px;
-  font-color: #c74940;
+  color: #c74940;
 }
 h2 {
   font-size: 30px;
-  font-color: #a3372f;
+  color: #a3372f;
 }
 p {
   font-size: 20px;
-  font-color: #8a221a;
+  color: #8a221a;
 }
