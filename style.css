@@ -10,7 +10,7 @@ h1 {
   font-size: 130px;
   color: #ab0c00;
 }
-h1 .topbar {
+div .topbar {
     background-color: #292929;
     overflow: hidden;
 }
