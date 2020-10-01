@@ -7,7 +7,7 @@ body {
   font-family: Roboto;
 }
 h1 {
-  font-size: 50px;
+  font-size: 65px;
   color: #ab0c00;
 }
 .topbar {
@@ -19,6 +19,6 @@ h2 {
   color: #8a0a00;
 } 
 p {
-  font-size: 35px;
+  font-size: 25px;
   color: #6e0800;
 }
