@@ -10,14 +10,14 @@ h1 {
   font-size: 130px;
   color: #ab0c00;
 }
-div .topbar {
+.topbar {
     background-color: #292929;
     overflow: hidden;
-}
+} 
 h2 {
   font-size: 30px;
   color: #8a0a00;
-}
+} 
 p {
   font-size: 20px;
   color: #6e0800;
