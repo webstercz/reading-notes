@@ -7,7 +7,7 @@ body {
   font-family: Roboto;
 }
 h1 {
-  font-size: 80px;
+  font-size: 50px;
   color: #ab0c00;
 }
 .topbar {
@@ -15,7 +15,7 @@ h1 {
   overflow: hidden;
 } 
 h2 {
-  font-size: 50px;
+  font-size: 40px;
   color: #8a0a00;
 } 
 p {
